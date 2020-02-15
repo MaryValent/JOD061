@@ -5,3 +5,9 @@ Class Program {
 //Implementar a classe
 
 }
+  int Main()
+  {
+    
+  }
+
+}
