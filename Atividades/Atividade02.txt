@@ -1,7 +1,16 @@
 1. Realizar uma pesquisa sobre jogos multiplayer escolhendo um jogo para elaborar uma ficha técnica contendo as seguintes informações.
 
-a) Nomo do jogo
-b) Classificação: Local ou Online
-c) Arquitetura: Cliente-Servidor ou Ponto-a-Ponto
-d) Quantidade de jogadores po sessão.
-e) Problemas comuns do jogo.
+a) League Of Legends
+
+b) Online
+
+c) Atualmente é Cliente-Servidor, porém já chegou a ser ponto-a-ponto antes de 2018
+
+d) no máximo 10
+
+e) 
+Estabelecimento de ping estável com o servidor fora da região de São Paulo;
+Automaticamente conectar com o servidor da região, não o de melhor ping para o jogador;
+Instabilidade nos servidores de jogo;
+Instabilidade nos servidores de chat.
+
